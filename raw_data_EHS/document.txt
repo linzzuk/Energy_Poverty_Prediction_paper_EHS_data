@@ -1,1 +1,1 @@
-save the plots in this folder
+save the raw data in this folder
