@@ -1,7 +1,9 @@
 # Machine Learning with Administrative Data for Energy Poverty Identification in the UK
 
 
-This repository contains the code and data for the paper **"Machine Learning with Administrative Data for Energy Poverty Identification in the UK"**. The research explores how machine learning models can leverage adminisative and survey data to improve energy poverty assessment in the UK.
+This repository contains the code and data for the paper **"Machine Learning with Administrative Data for Energy Poverty Identification in the UK"**. (paper link: https://www.mdpi.com/1996-1073/18/12/3054) 
+
+The research explores how machine learning models can leverage adminisative and survey data to improve energy poverty assessment in the UK.
 
 ## Repository Structure
 ```
